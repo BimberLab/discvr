@@ -6,4 +6,4 @@ DISCVR is open-source, with the code hosted in the main LabKey Server subversion
 
 https://www.labkey.org/wiki/home/Documentation/page.view?name=svn
 
-Please see the wiki section for an overview, instructions and more specific links to download these modules.
+Please [see the wiki section for an overview](https://github.com/bbimber/discvr/wiki), instructions and more specific links to download these modules.
